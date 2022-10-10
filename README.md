@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Cover](https://github.com/NicolasBrondin/NicolasBrondin/blob/master/img/cover.jpg)
+![Cover](https://github.com/NicolasBrondin/NicolasBrondin/blob/master/img/WhatsApp Image 2022-10-10 at 20.54.40.jpeg.jpg)
 <!--
 **medivankembo/medivankembo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
