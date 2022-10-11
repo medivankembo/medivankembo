@@ -1,20 +1,31 @@
-### Hi there 👋
-![Cover](https://github.com/medivankembo/medivankembo/img/cover.jpeg)
-<!--
-**medivankembo/medivankembo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" >
 
-<img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fwildagsx">
-<img src="https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin">
+  <img src="https://storyset.com/illustration/gaming/bro#000973FF&hide=&hide=simple/>
+  
+</div>
 
 
-Here are some ideas to get you started:
+# ![Cover](https://github.com/medivankembo/medivankembo/img/cover.jpeg)
+## Data Analyst | Full-Stack Developer
+I'm interested in everything related to data and software development are the two areas I'm passionate about.
+Sharing with others about experiences, knowledge, brings me joy and makes me more human.
+Putting my skills to work to meet human challenges is the engine that drives me to always love, learn, and give the best of myself.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="badges">
+  <a href="https://www.linkedin.com/in/medi-vankembo-110925182/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/vankembo">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=medivankembo&theme=radical&hide_langs_below=8)
+![](https://github-readme-stats.vercel.app/api?username=medivankembo&show_icons=true&theme=radical&count_private=true)
+
+### Languages
+- Python : Django, Boutiful, Beautiful Soup, Pandas, Matplotlib
+- JavaScript : React, Node.js, NextJs, NestJs
+- SQL(PostgreSQL, MySQL)
+- NoSQL
