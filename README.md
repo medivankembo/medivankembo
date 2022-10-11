@@ -1,4 +1,4 @@
-<img src="https://github.com/medivankembo/medivankembo/blob/main/img/cover.jpeg" width="400" height="400" />
+<img align="center" src="https://github.com/medivankembo/medivankembo/blob/main/img/cover.jpeg" width="400" height="400" /><br>
 
 ## Data Analyst | Full-Stack Developer
 I'm interested in everything related to data and software development are the two areas I'm passionate about.
