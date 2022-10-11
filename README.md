@@ -1,11 +1,5 @@
-<div id="header" >
+![Cover](https://github.com/medivankembo/medivankembo/blob/master/img/cover.jpeg)
 
-  <img src="https://storyset.com/illustration/gaming/bro#000973FF&hide=&hide=simple/>
-  
-</div>
-
-
-# ![Cover](https://github.com/medivankembo/medivankembo/img/cover.jpeg)
 ## Data Analyst | Full-Stack Developer
 I'm interested in everything related to data and software development are the two areas I'm passionate about.
 Sharing with others about experiences, knowledge, brings me joy and makes me more human.
