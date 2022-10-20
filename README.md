@@ -14,7 +14,7 @@ Putting my skills to work to meet human challenges is the engine that drives me 
   <a href="https://twitter.com/vankembo">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a><br><br>
-  Or you can hire me at the following 
+  You can also contact me at the following 
  <a href="mailto:vankembo.m@gmail.com">
     <strong>email address</strong>
  </a>
