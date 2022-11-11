@@ -27,7 +27,5 @@ Putting my skills to work to meet human challenges is the engine that drives me 
 ### Languages
 - Python : Django, Boutiful, Beautiful Soup, Pandas, Matplotlib
 - JavaScript : React, Node.js, NextJs, NestJs
-- SQL(PostgreSQL, MySQL)
+- SQL and DBMS(PostgreSQL, MySQL, DB2)
 - NoSQL
-
-Contact me ?
