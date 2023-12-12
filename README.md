@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" src="https://github.com/medivankembo/medivankembo/blob/main/IMG_6215.jpg" width="400" height="400" />
+<img align="center" src="https://github.com/medivankembo/medivankembo/blob/main/Gaming-bro.png" width="400" height="400" />
 </p>
 
 ## Data Analyst | Software engineer | Full-Stack Developer
